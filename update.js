@@ -105,7 +105,11 @@ void (async function main() {
       "─┴─────────────────────────────> " +
       wakaData.data.human_readable_total,
     "",
-    "$ ls Anisvsc",
+    "$ ls ",
+    " _____     _     _   ",
+    "|  _  |___|_|___| |_ ",
+    "|     |   | |_ -|   |",
+    "|__|__|_|_|_|___|_|_|",
     "├── README.md",
     "│",
     "├── Languages",
