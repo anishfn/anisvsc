@@ -9,7 +9,7 @@ $ curl -s https://raw.githubusercontent.com/anisvsc/anisvsc/master/hello.sh | sh
 ├── Born on 2005.02.05
 └── Joined Github on 2017.02.17
 
-$ waka stats --user anisvsc --from 2025-05-26 --to 2025-06-02
+$ waka stats --user anisvsc --from 2025-05-27 --to 2025-06-03
 
  TypeScript  │  68.97%  ██████████████       10 hrs 13 mins
  JavaScript  │   23.4%  █████                 3 hrs 28 mins
@@ -38,4 +38,4 @@ $ ls anisvsc
 └── Databases
     └── MySQL       SQLite      MongoDB         Redis
 ```
-###### This presentation is [updated](https://github.com/anisvsc/anisvsc) automatically every 2 hours, most recently on 02/06/2025, 22:20:43 ( UTC±2 )
+###### This presentation is [updated](https://github.com/anisvsc/anisvsc) automatically every 2 hours, most recently on 03/06/2025, 01:50:23 ( UTC±2 )
